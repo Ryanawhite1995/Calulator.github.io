@@ -9,11 +9,9 @@ A lightweigth Js Calculator with bright modern UI
 
 ## Open With
 
-Follow the link to access the final project. [My Netflix clone](https://netflix-clone-59b6e.web.app/)
 
 ## Deployment
 
-Deployed using Google Firebase hosting
 
 ## Built With
 
