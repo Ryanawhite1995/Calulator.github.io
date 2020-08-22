@@ -27,5 +27,3 @@ Feel free to contribute
 Ryan White
 
 ## Acknowledgments
-
-Thank you to online tutorials
